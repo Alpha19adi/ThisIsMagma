@@ -1,6 +1,6 @@
 # ThisIsMagma Site Reimagined 🏌️‍♂️
 
-Welcome to the reimagined SidCup Family Golf website project! Prepare to embark on a journey through lush greens and engaging experiences. Crafted with HTML, CSS, JavaScript, and GSAP for animations, this recreation offers more than just a website—it's an interactive adventure!
+Welcome to the reimagined ThisIsMagma website project! Prepare to embark on a journey through lush greens and engaging experiences. Crafted with HTML, CSS, JavaScript, and GSAP for animations, this recreation offers more than just a website—it's an interactive adventure!
 
 ## 🌟 Features 🌟
 
