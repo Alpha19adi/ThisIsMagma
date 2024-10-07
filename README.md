@@ -13,7 +13,7 @@ Welcome to the reimagined SidCup Family Golf website project! Prepare to embark 
 ## 💻 Technologies Used 💻
 
 - **HTML**: 🌐 Crafted with care to create a solid foundation for an immersive experience.
-- **CSS**: 🎨 Styled with finesse to evoke the essence of SidCup Family Golf's picturesque landscapes.
+- **CSS**: 🎨 Styled with finesse to evoke the essence of website.
 - **JavaScript**: 🚀 Seamlessly integrated to add interactivity and dynamism to every interaction.
 - **GSAP (GreenSock Animation Platform)**: 🌀 Infused with GSAP magic to enchant and captivate visitors with mesmerizing animations.
 
